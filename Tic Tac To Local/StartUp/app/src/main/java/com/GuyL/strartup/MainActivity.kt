@@ -151,21 +151,21 @@ class MainActivity : AppCompatActivity() {
        btn1.setBackgroundResource(R.color.white)
         btn1.text=""
         btn2.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn2.text=""
         btn3.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn3.text=""
         btn4.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn4.text=""
         btn5.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn5.text=""
         btn6.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn6.text=""
         btn7.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn7.text=""
         btn8.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn8.text=""
         btn9.setBackgroundResource(R.color.white)
-        btn1.text=""
+        btn9.text=""
         Toast.makeText(this,"Game cleaned, you are free to start over",Toast.LENGTH_LONG).show()
         player1.clear()
         player2.clear()
